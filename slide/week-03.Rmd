@@ -33,11 +33,19 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE,
 
 ```
 
----
 
 ## Acknowledgement of Country
 
 I would like to acknowledge the Traditional Owners of Australia and  recognise their continuing connection to land, water and culture. The  University of Sydney is located on the land of the Gadigal people  of the Eora Nation. I pay my respects to their Elders, past and present.
+
+---
+
+Francesco Bailo (francesco.bailo@sydney.edu.au)
+
+I am a Lecturer in the School of Social and Political Sciences, University of Sydney. I am interested in researching forms of political engagement and political talk on social media. I researched the emergence and dynamics of online communities, the role between news organisations and social media, and the interdependence between social media activists and news organisations. I have engaged with and applied quantitative research methods developing expertise in quantitative text analysis (NLP) and network analysis.
+
+This year I am teaching GOVT3901, SSPS4102/SSPS6006 and GOVT6139 
+
 
 ---
 
@@ -49,8 +57,6 @@ I would like to acknowledge the Traditional Owners of Australia and  recognise t
 - Seeks a balance between empirical rigor and epistemological humility.
 
 > “The postpositivist sees knowledge as **conjectural**. These **conjectures** are supported by the strongest (if possibly imperfect) warrants we can muster at the time and are always subject to reconsideration.” (Burbules & Phillips, 2000).
-
-.footnote[an opinion or conclusion formed on the basis of incomplete information]
 
 ---
 
@@ -120,7 +126,39 @@ I would like to acknowledge the Traditional Owners of Australia and  recognise t
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/e/ef/John_Dewey_cph.3a51565.jpg'>
 ]
 
-  
+---
+
+## Activity 1: Fallibilism and Policy Change – When Social Science Research Gets It Wrong
+
+**Time**: 30 minutes
+**Format**: Small group discussions + Class-wide Padlet
+
+### 1. Warm-up Discussion (5 min)
+
+- Can you think of a **government policy or law** that was based on ‘scientific’ research but was later overturned or revised? Base your answer to historical and contemporary cases.
+
+
+.center[Please respond on [Padlet](https://sydney.padlet.org/francescobailo/can-you-think-of-a-government-policy-or-law-that-was-based-o-geothee9e99xtxq4) 
+
+(Link from Canvas, slide or QR Code)
+
+<img src = 'https://padletcdn.com/cgi/fetch?disposition=attachment&url=https%3A%2F%2Fassets.padletcdn.com%2Fpadlets%2Fgeothee9e99xtxq4%2Fqr_code.png%3Fsource%3Dimage' width = '20%'>
+]
+
+---
+
+### 2. Group Case Study (20 min)
+
+Pick one of the examples on Padlet (or alternatively **Stop-and-Frisk Policies**, **Voter ID Laws and Electoral Fraud**, **Austerity Economics**).
+
+### Answer these questions (find relevant sources on the Internet if you can or want)
+
+1. What original research justified the policy?
+2. What later evidence or critique led to its revision?
+3. How does this illustrate fallibilism in social science?
+
+Discuss these your answers then summarises key points on Padlet with a new post.
+
 ---
 
 ## Nonfoundationalism and the Nature of Knowledge
@@ -174,12 +212,50 @@ I would like to acknowledge the Traditional Owners of Australia and  recognise t
 
 - **Definition**: Bias refers to a **systematic distortion** in research that affects results in a way that is **unjustified or misleading**. Unlike subjectivity (which is inherent to all inquiry), bias is problematic when it skews findings or undermines the validity of knowledge.
 
-- Bias can arise from **methodological flaws, cultural assumptions, or selective use of data**.  
+- Bias can arise from **methodological flaws, cultural assumptions, or selective use of data**. 
+
+.pull-left[<img src = 'https://upload.wikimedia.org/wikipedia/commons/3/31/Great_white_shark_south_africa.jpg'>]
+.pull-right[<img src = 'https://www.cnet.com/a/img/resize/c65e302ad87035390098700413f95b66d7ff4422/hub/2015/01/21/2c44c4c1-2b2e-4930-b19e-c3a3f8f48e84/2015-infiniti-qx80-14.jpg?auto=webp&width=1200'>
+
+<span style="font-size:0.8em; line-height: 20px; display:block">**1,300** people killed in Australia **every year** by cars. Between 1791 and 2025, **250** people killed by sharks in Australia according to Wikipedia, or about 1 person a year on average.</span>
+
+]
+
+---
+
+## The Origin and Meaning of "Bias"
+
+### Historical Origin of "Bias"
+- The term **"bias"** originates from the game of **lawn bowls**.
+- In lawn bowls, balls are **weighted off-center**, causing them to **curve when rolled**.
+- This means they do not travel in a straight line but always **veer away from the direct path**.
+
+### Implications for Human Bias
+- **Bias in individuals** functions similarly to the curving movement of the biased ball.
+- It represents a **deep-seated characteristic or attitude** that consistently shapes behavior.
+- Often, **bias is seen as relatively immune to eradication**.
+- It is typically regarded as **illegitimate in contexts requiring objective evaluation**.
+
+---
+
+### Examples of Bias in Social Contexts
+- A **mathematics professor** might be biased against **football players**, assuming they lack mathematical ability simply because they are “jocks.”
+- An **employer** might harbour **biases against certain groups**, such as **Jews or women**, regardless of their actual job performance.
+
+.content-box-yellow[
+
+- **Bias is not just a momentary opinion** but a **fundamental orientation** that affects judgment.
+- **Recognising bias** is crucial in ensuring **fairness and objectivity** in decision-making.
+- **Overcoming bias** requires **deliberate awareness and effort** to counteract unwarranted assumptions.
+
+]
+
 
 
 ---
 
 #### **Types of Bias in Research**
+
 1. **Cultural Bias** – When research methods or interpretations reflect the norms, values, or assumptions of one cultural group over others.  
    - *Example*: Early intelligence (IQ) tests were criticised for favouring **Western, middle-class knowledge**, leading to **systematic disadvantages** for individuals from different backgrounds.  
    
@@ -198,7 +274,7 @@ I would like to acknowledge the Traditional Owners of Australia and  recognise t
 
 ## The most famous example of bias in research
 
-During World War II, statistician Abraham Wald analyzed the damage on returning bombers and made a counterintuitive recommendation: instead of reinforcing the areas that showed the most bullet holes, he advised adding armor to the areas that appeared undamaged
+During World War II, statistician Abraham Wald analysed the damage on returning bombers and made a counterintuitive recommendation: instead of reinforcing the areas that showed the most bullet holes, he advised adding armor to the areas that appeared undamaged.
 
 .center[<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/2560px-Survivorship-bias.svg.png' width = '35%'>]
 
@@ -208,18 +284,73 @@ During World War II, statistician Abraham Wald analyzed the damage on returning 
 ---
 
 ### **How to Address Bias in Research?**
-To uphold **post-positivist principles of rigorous inquiry**, researchers must actively **identify, minimize, and account for biases** through careful methodological design and critical reflection.  
+To uphold **post-positivist principles of rigorous inquiry**, researchers must actively **identify, minimise, and account for biases** through careful methodological design and critical reflection.  
 
 **Strategies to Reduce Bias**:
+
 ✅ **Transparency** – Clearly document research processes, decisions, and limitations.  
+
 ✅ **Peer Review & Reflexivity** – Engage with **critical feedback** from other scholars to identify potential blind spots.  
+
 ✅ **Diverse Perspectives** – Incorporate **multiple viewpoints** and interdisciplinary approaches.  
 ✅ **Replication & Triangulation** – Use **multiple methods or data sources** to verify findings and reduce reliance on any single perspective.  
 
 Post-positivism does not claim **absolute objectivity** but emphasizes **methodological rigor** and the **systematic examination of assumptions** to produce the most **credible, justifiable knowledge**.  
 
-> “Objectivity does not guarantee that a belief or viewpoint is true… but the best evidence available at the time must be used, with the awareness that new findings may later refine or revise our understanding.” (Burbules & Phillips, 2000)&#8203;:contentReference[oaicite:5]{index=5}.
+> “Objectivity does not guarantee that a belief or viewpoint is true… but the best evidence available at the time must be used, with the awareness that new findings may later refine or revise our understanding.” (Burbules & Phillips, 2000).
 
+---
+
+## Activity 2: Survivorship Bias in Social Science – Who Gets Counted in Research?
+
+**Time**: 30 minutes
+
+**Format**: Whole-class interactive analysis + Group Reflection (Google Slides, but pen and paper will also do if you don't have a computer!)
+
+### 1. Warm-up Discussion (5 min)
+
+.pull-left[
+
+Think again about the Wald’s bomber study...
+
+.center[<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/2560px-Survivorship-bias.svg.png' width = '40%'>]
+
+.center[**How might this bias appear in social science research?**]
+
+]
+
+.pull-right[
+
+.center[Please respond on [Padlet](https://sydney.padlet.org/francescobailo/how-might-this-bias-appear-in-social-science-research-9s82ppcghmwwbtbh) 
+
+(Link from Canvas, slide or QR Code)
+
+<img src = 'https://padletcdn.com/cgi/fetch?disposition=attachment&url=https%3A%2F%2Fassets.padletcdn.com%2Fpadlets%2F9s82ppcghmwwbtbh%2Fqr_code.png%3Fsource%3Dimage' width = '40%'>
+]
+
+]
+
+---
+
+### 2. Group Analysis (15 min)
+
+Each group to get one of these real-world examples
+
+.small[
+
+- **Crime Statistics** – Only reported crimes are counted, underestimating hidden crimes like domestic abuse.
+- **Political Polling** – Polls often exclude low-income, digitally disconnected or simply politically disengaged populations.
+- **Economic Inequality Studies** – Focus on wage earners, ignoring undocumented or informal labourers.
+- **Migration Research** – Focus on migrants who successfully integrate, missing deported or marginalised individuals.
+
+Each group to discuss and prepare a **1-minute presentation summary** on
+1. What is missing from the data?
+2. How does policy change when bias is accounted for?
+3. How can researchers correct for survivorship bias?
+
+]
+
+.center[Link to [Google Slides here](https://docs.google.com/presentation/d/1sTyMtLRpIKnqfXOeBfrfud2_-soJxgRwEe_FeRSd57A/edit?usp=sharing) or on Canvas].
 
 
 ---
@@ -229,6 +360,8 @@ Post-positivism does not claim **absolute objectivity** but emphasizes **methodo
   - Strong belief does not equal truth (e.g., controversy around recovered memories demonstrates that subjective certainty doesn't equal empirical validity).
 
 > “It is a confusion—and a pernicious one—to say that because a person believes X, and another doesn’t, that X is both true and not true.” (Burbules & Phillips, 2000).
+
+---
 
 ## Scientific Inquiry as a Social Activity
 - **Community of inquiry**:
@@ -241,20 +374,101 @@ Post-positivism does not claim **absolute objectivity** but emphasizes **methodo
 ---
 
 ## Post-positivism in Educational Research: Example of Kohlberg’s Theory
-- **Lawrence Kohlberg's Moral Development Theory**:
-  - Initially proposed stages of moral reasoning; widely accepted based on empirical evidence and theoretical appeal.
-  - Later critiqued (e.g., Carol Gilligan’s feminist perspective highlighting gender biases).
-  - Example demonstrates post-positivist principles: openness to criticism, theory revision, and methodological transparency.
+
+
+### **Kohlberg’s Moral Development Theory (Simplified)**  
+- **How do people decide what is right and wrong?**  
+- **Three levels, six stages** (People progress step by step, but not everyone reaches the highest level).  
+  - **Preconventional (Self-Interest)**: Avoiding punishment, personal gain.  
+  - **Conventional (Social Rules)**: Seeking approval, following laws.  
+  - **Postconventional (Ethical Principles)**: Questioning laws, acting on universal values.  
+
+---
+
+### **Main Criticisms of Kohlberg’s Theory**
+
+1. **Gender Bias (Carol Gilligan’s Critique)**  
+   - Only studied boys, assuming moral thinking was the same for all.  
+   - Women may emphasise **care and relationships** over justice and laws.  
+
+2. **Cultural Bias**  
+   - Based on Western values of individual rights and justice.  
+   - Some cultures prioritise **community, tradition, and harmony** over personal principles.  
+
+3. **Focus on Moral Reasoning, Not Actions**  
+   - Thinking about morality doesn’t always match real-world behaviour.  
+   - Example: People may say stealing is wrong but might steal in desperate situations.  
 
 
 ---
 
 ## Critiques and Limitations of Post-positivism
 - **Common Critiques**:
-  - Accused (often incorrectly) of being relativi
-  
+  - Accused (often incorrectly) of being relativistic or overly skeptical due to its rejection of absolute certainty.
+  - Questions raised about reliability and usefulness if all knowledge is provisional.
+
+> “If knowledge claims can always be overthrown, why should we believe or accept anything?” (Burbules & Phillips, 2000).
 
 ---
+
+## Concluding Reflections
+- **Epistemological Humility**:
+  - Post-positivism promotes humility in research, recognising knowledge as fallible but critically important.
+  - It represents a balanced approach between the extremes of positivist certainty and radical relativism.
+
+> “If we did not believe that truth can be found… why would we bother to carry out inquiries? If any old beliefs would suffice, we needn’t bother to go to the trouble to do research.” (Burbules & Phillips, 2000).
+
+---
+
+## “There are all kinds of sources of our knowledge, but *none has authority*.”
+
+> "Philosopher of science Karl Popper, a key figure in the development of nonfoundationalist postpositivism, put it well when he wrote, 'But what, then, are the sources of our knowledge? The answer, I think, is this: there are all kinds of sources of our knowledge, but *none has authority*.' Thus the empiricist’s questions, 'How do you know? What is the source of your assertion?', are wrongly put. They are not formulated in an inexact or slovenly manner, but they are entirely misconceived: they are questions that beg for an authoritarian answer”  (Burbules & Phillips, 2000)
+
+---
+
+## Activity 3: Objectivity vs. Bias in Social Science – Can Research Be Neutral?
+
+**Time**: 30 minutes
+
+.center[**Can social science research ever be truly objective or if it is inevitably shaped by power, politics, and bias?**]
+
+### 1. Opening Exercise (5 min, Padlet Discussion)
+
+> “The fact is, objectivity does not guarantee that a belief or viewpoint is true... Objectivity refers instead to the rigorous process of inquiry, not the elimination of bias.”
+
+.pull-left[
+
+- Do you agree that objectivity is about process rather than neutrality? Why or why not?
+
+Please respond on [Padlet](https://sydney.padlet.org/francescobailo/do-you-agree-that-objectivity-is-about-process-rather-than-n-w84sfndvtiuj3vq6) 
+
+(Link from Canvas, slide or QR Code)
+
+]
+
+.pull-right[
+.center[<img src = 'https://padletcdn.com/cgi/fetch?disposition=attachment&url=https%3A%2F%2Fassets.padletcdn.com%2Fpadlets%2Fw84sfndvtiuj3vq6%2Fqr_code.png%3Fsource%3Dimage' width = '40%'>]
+]
+
+---
+
+### 2. Each group takes one position
+
+  - **Position A:** *Social sciences can be objective if it follows rigorous methodology.* or
+  - **Position B:** *All social sciences are subjective and shaped by political interests.*
+
+- Within each group, discuss the argument is support of your position.
+
+- On Google Slide (or on paper), each group summarise their **two strongest arguments** for a two-minute presentation. 
+
+- During the presentation the other groups can challenge these statements.
+
+.center[Link to [Google Slide here](https://docs.google.com/presentation/d/10Z7Sl5gp6ToO-qaOgcc7az-pR3-rtGRxfUv33yzm9ds/edit?usp=sharing) or from Canvas]
+
+
+---
+class: center, middle
+
 # Thanks!
 
 
