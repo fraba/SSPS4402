@@ -1,0 +1,261 @@
+---
+title: "SSPS4402</br>Philosophy of Social Science Research"
+subtitle: "Week 03</br>Post-positivism in the Social Sciences"
+author: "Francesco Bailo"
+institute: "The University of Sydney"
+date: "Semester 1, 2025 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["default", "assets/sydney-fonts.css", "assets/sydney.css"]
+    self_contained: false # if true, fonts will be stored locally
+    seal: true # show a title slide with YAML information
+    includes:
+      in_header: "assets/mathjax-equation-numbers.html"
+    nature:
+      beforeInit: ["assets/remark-zoom.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9' # alternatives '16:9' or '4:3' or others e.g. 13:9
+      navigation:
+        scroll: false # disable slide transitions by scrolling
+
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/en/6/6a/Logo_of_the_University_of_Sydney.svg)
+background-size: 95%
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, 
+                      dev = 'svg', out.width = "45%", fig.width = 6,
+                      fig.align="center")
+
+```
+
+---
+
+## Acknowledgement of Country
+
+I would like to acknowledge the Traditional Owners of Australia and  recognise their continuing connection to land, water and culture. The  University of Sydney is located on the land of the Gadigal people  of the Eora Nation. I pay my respects to their Elders, past and present.
+
+---
+
+# Post-positivism: A Critical Perspective
+
+## What is Post-positivism?
+- **Definition:** Emerged in response to positivism’s limitations; rejects foundationalist epistemology and embraces fallibilism.
+- **Central belief**: Knowledge is always tentative, supported by empirical evidence but open to continuous testing and revision (Popper’s idea of knowledge as "conjectural").
+- Seeks a balance between empirical rigor and epistemological humility.
+
+> “The postpositivist sees knowledge as **conjectural**. These **conjectures** are supported by the strongest (if possibly imperfect) warrants we can muster at the time and are always subject to reconsideration.” (Burbules & Phillips, 2000).
+
+.footnote[an opinion or conclusion formed on the basis of incomplete information]
+
+---
+
+## From my dictionary...
+
+> ## `r icons::fontawesome("book")`
+> **conjecture** | kənˈdʒɛktʃə |
+
+> *noun*
+
+>   an opinion or conclusion formed on the basis of incomplete information: *conjectures about the newcomer were many and varied | [mass noun] : a matter for conjecture.*
+
+>   - an unproven mathematical or scientific theorem.
+
+>   - [mass noun] (in textual criticism) the suggestion of a reading of a text not present in the original source.
+
+
+---
+
+## Historical Context: From Positivism to Post-positivism
+
+.pull-left[
+- **Positivism**: 
+  - Founded by Auguste Comte (see Figure `r icons::fontawesome("arrow-right")`), advanced by Logical Positivists.
+  - Asserts knowledge derives *exclusively* from observable, measurable facts.
+  - Rejects unverifiable statements as meaningless speculation (Logical Positivism).]
+  
+.pull-right[<img src = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Auguste_Comte.jpg'>]
+
+---
+
+.pull-left[
+
+#### Criticism of Positivism:
+- Oversimplifies scientific inquiry.
+- Fails to account for theory-laden perception and the complexity of human knowledge.
+
+#### Emergence of Post-positivism:
+- Philosophers like Karl Popper (`r icons::fontawesome("arrow-right")`) and Thomas Kuhn argued against certainty, promoting fallibilism and critical inquiry.
+
+> “Scientists—according to these views—are no less human, and no less biased and lacking in objectivity, than anyone else; they work within frameworks that are just that: frameworks.” (Burbules & Phillips, 2000).
+
+]
+
+.pull-right[<img src = 'https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg'>]
+
+---
+
+
+## Philosophical Commitments of Post-positivism
+- **Fallibilism**:
+  - Human knowledge is inherently tentative and provisional, subject to revision based on new evidence or criticism.
+
+> “Our best methods for securing knowledge are apt occasionally to fail. They may, like a hung jury, yield no verdict, leaving us in ignorance about the matter at hand. But sometimes they do worse. In counting undetected errors as knowledge, they yield false positives.” (Elgin, 1996, quoted in Burbules & Phillips).
+
+---
+
+.pull-left[
+- **Warranted Assertibility** (John Dewey `r icons::fontawesome("arrow-right")`):
+  - Rather than seeking absolute truth, post-positivists seek beliefs that are justified or "warrantably assertible" given current evidence.
+- **Truth as a regulative ideal**:
+  - Truth guides the research process but is understood as an ideal rather than an attainable endpoint.
+
+]
+
+.pull-right[
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/e/ef/John_Dewey_cph.3a51565.jpg'>
+]
+
+  
+---
+
+## Nonfoundationalism and the Nature of Knowledge
+- **Critique of Foundationalism**:
+  - No ultimate or unquestionable foundation for knowledge exists (neither rationalist nor empiricist).
+  - All claims must be critically evaluated and remain open to challenge and revision.
+  
+> “There are no ultimate sources of knowledge. Every source, every suggestion, is welcome; and every source, every suggestion, is open to critical examination.” (Popper, quoted in Burbules & Phillips, 2000).
+
+- **Illustrations**:
+  - Historical shifts in scientific understanding (e.g., counting human chromosomes incorrectly—48 corrected to 46).
+  - Theories are constantly refined or replaced, showing knowledge as provisional.
+
+
+---
+
+## Theory-laden Perception and Underdetermination
+- **Theory-laden Perception**:
+  - Observations always depend on the observer's existing beliefs, theories, and expectations (e.g., basketball analogy—observers see different events based on background knowledge).
+
+> “What an observer sees, and also what he or she does not see, and the form that the observation takes, is influenced by the background knowledge of the observer—the theories, hypotheses, assumptions, or conceptual schemes that the observer harbors.” (Burbules & Phillips, 2000).
+
+- **Underdetermination of Theory by Evidence**:
+  - Empirical data alone can support multiple competing theories.
+  - Observations never fully determine theoretical conclusions; background assumptions influence interpretations (Duhem-Quine thesis).
+
+
+---
+
+## Objectivity, Subjectivity, and Bias
+- **Post-positivist view of objectivity**:
+  - Objectivity refers to transparent, rigorous methods that are open to scrutiny by others—not absolute neutrality.
+  - "Objective" does not necessarily mean "true," as even widely accepted scientific claims have later proven false (chromosome example).
+
+> “The fact is, objectivity does not *guarantee* that a belief or viewpoint is true… Scientists had good reason to accept [the idea of 48 chromosomes] for it was warranted by ‘objective’ evidence, that is, the best evidence that was available at the time.” (Burbules & Phillips, 2000).
+
+---
+
+## **Understanding Subjectivity and Bias in Research**
+
+### **Subjectivity in Research**  
+- **Definition**: Subjectivity refers to the **inevitable** influence of an individual's background, experiences, and theoretical commitments on how they perceive, interpret, and analyse information.  
+- Post-positivists acknowledge that **complete neutrality is impossible**—every researcher has prior knowledge, disciplinary perspectives, and assumptions that shape their inquiry.  
+- **Example**: Two researchers analysing the same classroom discussion may focus on different aspects depending on their theoretical orientation (e.g., a cognitive psychologist might focus on memory retention, while a sociologist might focus on group dynamics).  
+
+- Observation is not ‘neutral’; what an observer sees, and how they describe it, is shaped by their theoretical framework and background knowledge.
+
+---
+
+### **What is Bias?** 
+
+- **Definition**: Bias refers to a **systematic distortion** in research that affects results in a way that is **unjustified or misleading**. Unlike subjectivity (which is inherent to all inquiry), bias is problematic when it skews findings or undermines the validity of knowledge.
+
+- Bias can arise from **methodological flaws, cultural assumptions, or selective use of data**.  
+
+
+---
+
+#### **Types of Bias in Research**
+1. **Cultural Bias** – When research methods or interpretations reflect the norms, values, or assumptions of one cultural group over others.  
+   - *Example*: Early intelligence (IQ) tests were criticised for favouring **Western, middle-class knowledge**, leading to **systematic disadvantages** for individuals from different backgrounds.  
+   
+2. **Confirmation Bias** – The tendency to seek, interpret, or prioritise evidence that supports pre-existing beliefs while ignoring contradictory evidence.  
+   - *Example*: A researcher studying gender differences in education may selectively highlight findings that support traditional gender roles while overlooking counterevidence.  
+
+3. **Selection Bias** – When the sample chosen for a study is not representative of the broader population.  
+   - *Example*: A study on student engagement that only includes high-performing students may **overestimate engagement levels** in the general student body.  
+
+4. **Measurement Bias** – When research instruments or tools systematically favor certain outcomes.  
+   - *Example*: A survey with **leading questions** can influence participants’ responses, distorting findings.  
+
+> “An intelligence test should be labeled as biased if it has a built-in element that will systematically turn it away from the ‘true’—in this case, from giving a measure of ‘intelligence’ rather than some other factor such as class or ethnicity.” (Burbules & Phillips, 2000).
+
+---
+
+## The most famous example of bias in research
+
+During World War II, statistician Abraham Wald analyzed the damage on returning bombers and made a counterintuitive recommendation: instead of reinforcing the areas that showed the most bullet holes, he advised adding armor to the areas that appeared undamaged
+
+.center[<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/2560px-Survivorship-bias.svg.png' width = '35%'>]
+
+- Why do you think Wald suggested reinforcing the parts of the aircraft that showed no visible damage?
+- What does this reveal about survivorship bias, and how can failing to account for it lead to flawed conclusions in research?
+
+---
+
+### **How to Address Bias in Research?**
+To uphold **post-positivist principles of rigorous inquiry**, researchers must actively **identify, minimize, and account for biases** through careful methodological design and critical reflection.  
+
+**Strategies to Reduce Bias**:
+✅ **Transparency** – Clearly document research processes, decisions, and limitations.  
+✅ **Peer Review & Reflexivity** – Engage with **critical feedback** from other scholars to identify potential blind spots.  
+✅ **Diverse Perspectives** – Incorporate **multiple viewpoints** and interdisciplinary approaches.  
+✅ **Replication & Triangulation** – Use **multiple methods or data sources** to verify findings and reduce reliance on any single perspective.  
+
+Post-positivism does not claim **absolute objectivity** but emphasizes **methodological rigor** and the **systematic examination of assumptions** to produce the most **credible, justifiable knowledge**.  
+
+> “Objectivity does not guarantee that a belief or viewpoint is true… but the best evidence available at the time must be used, with the awareness that new findings may later refine or revise our understanding.” (Burbules & Phillips, 2000)&#8203;:contentReference[oaicite:5]{index=5}.
+
+
+
+---
+
+## Truth, Belief, and Multiple Realities
+- **Truth vs. belief**:
+  - Strong belief does not equal truth (e.g., controversy around recovered memories demonstrates that subjective certainty doesn't equal empirical validity).
+
+> “It is a confusion—and a pernicious one—to say that because a person believes X, and another doesn’t, that X is both true and not true.” (Burbules & Phillips, 2000).
+
+## Scientific Inquiry as a Social Activity
+- **Community of inquiry**:
+  - Research occurs within professional communities sharing paradigms (Thomas Kuhn).
+  - Community standards and collective judgments determine which claims are accepted as knowledge.
+
+> “The very existence of science depends upon vesting the power to choose between paradigms in the members of a special kind of community.” (Kuhn, quoted in Burbules & Phillips, 2000).
+
+
+---
+
+## Post-positivism in Educational Research: Example of Kohlberg’s Theory
+- **Lawrence Kohlberg's Moral Development Theory**:
+  - Initially proposed stages of moral reasoning; widely accepted based on empirical evidence and theoretical appeal.
+  - Later critiqued (e.g., Carol Gilligan’s feminist perspective highlighting gender biases).
+  - Example demonstrates post-positivist principles: openness to criticism, theory revision, and methodological transparency.
+
+
+---
+
+## Critiques and Limitations of Post-positivism
+- **Common Critiques**:
+  - Accused (often incorrectly) of being relativi
+  
+
+---
+# Thanks!
+
+
+
